@@ -1,0 +1,21 @@
+{
+  "name": "next-response-helpers",
+  "version": "0.1.2",
+  "description": "Helper functions for NextJS API and SSR responses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build index.ts"
+  },
+  "files": [
+    "index.js"
+  ],
+  "author": "Samson Zhang",
+  "license": "ISC",
+  "peerDependencies": {
+    "next": "^11.1.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0-rc.0"
+  }
+}
