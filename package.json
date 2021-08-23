@@ -1,6 +1,7 @@
 {
   "name": "next-response-helpers",
-  "version": "0.1.2",
+  "version": "0.1.3",
+  "repository": "github:wwsalmon/next-response-helpers",
   "description": "Helper functions for NextJS API and SSR responses",
   "main": "index.js",
   "scripts": {

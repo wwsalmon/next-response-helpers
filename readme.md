@@ -17,4 +17,4 @@ export const ssrRedirect = (destination: string) => ({redirect: {permanent: fals
 export const ssr404: {notFound: true} = {notFound: true};
 ```
 
-Contributions welcome at [https://github.com/wwsalmon/sz-packages](https://github.com/wwsalmon/sz-packages)
+Contributions welcome at [https://github.com/wwsalmon/next-response-helpers](https://github.com/wwsalmon/next-response-helpers)
